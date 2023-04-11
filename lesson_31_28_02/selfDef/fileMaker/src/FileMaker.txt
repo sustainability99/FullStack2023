@@ -1,0 +1,3 @@
+Das ist ein Test.
+Wir schreiben einen Text in die Datei.
+Mehrere Sätze gleichzeitig.
