@@ -2,7 +2,10 @@ public class Cat extends Animal {
     String breed; // это поле для породы
 
     // конструктор
-    public Cat(String breed) {
+
+
+    public Cat(String name, String breed) {
+        super(name);
         this.breed = breed;
     }
 
