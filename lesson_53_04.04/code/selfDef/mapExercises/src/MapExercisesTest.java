@@ -1,6 +1,6 @@
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
-import selfDef.MapExercises;
+import selfDefStringBuilder.MapExercises;
 
 import java.util.Arrays;
 import java.util.HashMap;
