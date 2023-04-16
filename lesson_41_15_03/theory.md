@@ -28,7 +28,7 @@ System.out.println("Slow speed... - ползем, как черепаха");
 }
 }
 
-class Main {
+class ourFunktionaIInterfaces2.Main {
 public static void main(String[] args) {
 Vehicle myVehicle = new Vehicle();  // Create a Vehicle object
 myVehicl.moveFast(); // вызов одного метода
